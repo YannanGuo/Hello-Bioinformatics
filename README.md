@@ -8,4 +8,4 @@ This Repo is used for bioinformatics learning course during 2019 autumn semester
 | Mon. 15:20-16:55 |    生命科学馆246   |  on computer |
 
  
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+
